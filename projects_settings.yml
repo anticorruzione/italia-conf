@@ -1,0 +1,13 @@
+projects:
+  - name: SIMOG - modello dati
+    description: |
+      Documentazione dei servizi informatici esposti da anac
+    documents:
+      - simog-modello-dati-docs
+    short_name: simog-md
+    website: https://www.anticorruzione.it/-/sistema-informativo-monitoraggio-gare-simog-
+    tags:
+      - contratti pubblici
+      - bandi
+      - gara
+      - cig

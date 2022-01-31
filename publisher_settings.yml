@@ -1,0 +1,12 @@
+publisher:
+  name: Autorità Nazionale Anticorruzione
+  description: |
+    L’ANAC è un’autorità amministrativa indipendente la cui missione istituzionale è individuata nell’azione di prevenzione della corruzione in tutti gli ambiti dell’attività amministrativa.
+  github_organization_url: github.com/anticorruzione
+  short_name: ANAC
+  website: https://www.anticorruzione.it
+  tags:
+    - anticorruzione
+    - trasparenza 
+    - contratti pubblici
+  logo: assets/images/anac.png
